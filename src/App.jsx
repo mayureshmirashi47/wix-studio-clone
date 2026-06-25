@@ -3,7 +3,7 @@ import {
   ArrowUpRight,
   Sparkles,
   Layers,
-  Wand2,
+  Wand2,     // Ensure Wand2 is explicitly written here
   Smartphone,
   Code2,
   Zap,
